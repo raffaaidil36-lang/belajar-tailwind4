@@ -1,0 +1,11 @@
+# Mengabaikan folder dependency JavaScript yang ukurannya sangat besar
+node_modules/
+
+# Mengabaikan file log jika terjadi error saat menjalankan npm
+npm-debug.log*
+yarn-debug.log*
+yarn-debug.log*
+
+# Mengabaikan file konfigurasi sistem operasi (opsinal)
+.DS_Store
+Thumbs.db
